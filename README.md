@@ -9,10 +9,10 @@ wp.brute_force_attack('password.txt')
 
 RESULT
 
-Contraseña para "usuario1" Incorrecta.
-Autenticación -> "usuario2" | Password: "123456"
-Nombre de usuario: usuario2
-Nombre: Usuario
-Apellido: 2
-Correo electrónico: admin@example.com
-ID de usuario: 1
+Contraseña para "usuario1" Incorrecta.<br>
+Autenticación -> "usuario2" | Password: "123456"<br>
+Nombre de usuario: usuario2<br><br><br><br><br>
+Nombre: Usuario<br>
+Apellido: 2<br>
+Correo electrónico: admin@example.com<br><br>
+ID de usuario: 1<br>
