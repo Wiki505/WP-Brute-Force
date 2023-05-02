@@ -2,7 +2,7 @@
 
 
 # Se Crea una Instancia WordPressBruteForce
-Se incluye el dominio a realizar la prueba y el nombre de usuario
+Se incluye el dominio a realizar la prueba y el nombre de usuario<br>
 sitio_objetivo = WordPressBruteForce(wp_domain='example.com', wp_username='username')
 
 "El nombre de usuario debe ser identificado con anterioridad,
