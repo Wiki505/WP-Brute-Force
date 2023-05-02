@@ -24,5 +24,5 @@ Correo electrónico: admin@example.com<br>
 ID de usuario: 1<br>
 
 
-Perfil: https://www.linkedin.com/in/wikitech/
-Blog: exploit505.blogspot.com
+Perfil: https://www.linkedin.com/in/wikitech/<br>
+Blog: https://www.exploit505.blogspot.com
