@@ -1,13 +1,19 @@
 # WP-Login- Brute-Force
 
 
-# Crea una instancia de la clase WordPressBruteForce
-wp = WordPressBruteForce(wp_domain='example.com', wp_username='username')
+# Se Crea una Instancia WordPressBruteForce
+sitio_objetivo = WordPressBruteForce(wp_domain='example.com', wp_username='username')
 
-# Realiza un ataque de fuerza bruta utilizando el archivo 'passwords.txt'
-wp.brute_force_attack('password.txt')
+"El nombre de usuario debe ser identificado con anterioridad,
+el nombre de dominio debe incluir http:// o https://"
 
-RESULT
+# Realiza un ataque de fuerza bruta
+sitio_objetivo.brute_force_attack('password.txt')
+
+"El archivo password debe contener una lista de potenciales contraseñas,
+no debe llevar comas, y puede ser tan grande como se desee"
+
+RESULTADO EJEMPLO:
 
 Contraseña para "usuario1" Incorrecta.<br>
 Autenticación -> "usuario2" | Password: "123456"<br>
