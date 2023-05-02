@@ -20,5 +20,9 @@ Autenticación -> "usuario2" | Password: "123456"<br>
 Nombre de usuario: usuario2<br>
 Nombre: Usuario<br>
 Apellido: 2<br>
-Correo electrónico: admin@example.com<br><br>
+Correo electrónico: admin@example.com<br>
 ID de usuario: 1<br>
+
+
+Perfil: https://www.linkedin.com/in/wikitech/
+Blog: exploit505.blogspot.com
