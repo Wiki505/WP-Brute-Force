@@ -11,7 +11,7 @@ RESULT
 
 Contraseña para "usuario1" Incorrecta.<br>
 Autenticación -> "usuario2" | Password: "123456"<br>
-Nombre de usuario: usuario2<br><br><br><br><br>
+Nombre de usuario: usuario2<br>
 Nombre: Usuario<br>
 Apellido: 2<br>
 Correo electrónico: admin@example.com<br><br>
